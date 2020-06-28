@@ -1,5 +1,5 @@
 # Classification of Iris flowers
-M.L. Project for classification of Iris flowers
+M.L. Project for Multi-Class Classification of Iris flowers
 
 ## Dataset sources
  * You can find the data-set [here](https://archive.ics.uci.edu/ml/datasets/Iris).
